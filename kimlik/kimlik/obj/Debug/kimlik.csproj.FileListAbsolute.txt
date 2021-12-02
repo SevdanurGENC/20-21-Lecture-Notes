@@ -1,0 +1,10 @@
+C:\Users\Nano\source\repos\kimlik\kimlik\bin\Debug\kimlik.exe.config
+C:\Users\Nano\source\repos\kimlik\kimlik\bin\Debug\kimlik.exe
+C:\Users\Nano\source\repos\kimlik\kimlik\bin\Debug\kimlik.pdb
+C:\Users\Nano\source\repos\kimlik\kimlik\obj\Debug\kimlik.csprojAssemblyReference.cache
+C:\Users\Nano\source\repos\kimlik\kimlik\obj\Debug\kimlik.Form1.resources
+C:\Users\Nano\source\repos\kimlik\kimlik\obj\Debug\kimlik.Properties.Resources.resources
+C:\Users\Nano\source\repos\kimlik\kimlik\obj\Debug\kimlik.csproj.GenerateResource.cache
+C:\Users\Nano\source\repos\kimlik\kimlik\obj\Debug\kimlik.csproj.CoreCompileInputs.cache
+C:\Users\Nano\source\repos\kimlik\kimlik\obj\Debug\kimlik.exe
+C:\Users\Nano\source\repos\kimlik\kimlik\obj\Debug\kimlik.pdb
